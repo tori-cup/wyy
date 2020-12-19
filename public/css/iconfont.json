@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4662779",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "9017761",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13242119",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13478700",
+      "name": "播放",
+      "font_class": "A",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "15463140",
+      "name": "麦克风,K歌,KTV,话筒",
+      "font_class": "maikefeng-Kge-KTV-huatong",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
